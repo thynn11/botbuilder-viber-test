@@ -1,0 +1,25 @@
+{
+  "name": "vibertest",
+  "version": "1.0.0",
+  "description": "Testing Viber Channel",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "botframework",
+    "viber"
+  ],
+  "author": "thynn11",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.14.0",
+    "botbuilder-azure": "^3.0.4",
+    "botbuilder-viber": "0.0.2",
+    "dotenv-extended": "^2.0.1",
+    "express": "^4.16.2",
+    "viber-bot": "^1.0.13",
+    "winston": "^2.4.0",
+    "winston-console-formatter": "^1.0.0-beta.1"
+  }
+}
